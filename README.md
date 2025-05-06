@@ -82,3 +82,5 @@ plt.show()
 # Results
 Thus, a Python program for the Construction and Reconctruction of Flat-Top Sampleing are verified .
 # Hardware experiment output waveform.
+![WhatsApp Image 2025-05-06 at 11 02 36_2e78562e](https://github.com/user-attachments/assets/57462398-a807-46ed-a170-f60a2abdfeb3)
+
